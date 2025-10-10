@@ -87,7 +87,7 @@ to-do-app/
 ## Screenshots
 
 ![Kanban Board](https://github.com/user-attachments/assets/c966ac90-f508-4fd8-aba6-6028dce6da4a)
-<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/c966ac90-f508-4fd8-aba6-6028dce6da4a" />
+
 ---
 
 ## Deployment
@@ -101,11 +101,12 @@ The project is deployed on **Vercel** and accessible at:
 
 **Harsh Awalegaonkar**
 
-* GitHub: [github.com/yourusername](https://github.com/yourusername)
-* Portfolio: [yourportfolio.com](#)
+* GitHub: [github.com/Harshcodesfast](https://github.com/Harshcodesfast)
+* Portfolio: [soon](#)
 
 ---
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
